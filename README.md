@@ -2,8 +2,7 @@
 
 <a class="twitter-follow-button"
   href="https://twitter.com/DevKhris"
-  data-show-count="true"
-  data-size="large">
+  data-show-count="true">
   Follow @DevKhris
 </a>
 
