@@ -1,5 +1,9 @@
-### Hi I'm Chris Hernandez an ✨ FullStack Developer ✨
+### Hi I'm Chris Hernandez an :tada: FullStack Developer :tada:
 
+* 💻 Languages: PHP, Javascript, Ruby, Go
+* 📐 Frameworks: Symfony, Laravel, Spiral, VueJS
+* 💎 Developing: BlockCMS, RubyNight, Psyonia
+* 
 <a class="twitter-follow-button"
   href="https://twitter.com/DevKhris"
   data-show-count="true">
