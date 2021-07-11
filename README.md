@@ -6,6 +6,7 @@
 * 💎 My Projects: BlockCMS, RubyNight, Psyonia, Wryte
 * 💙 Love: 🍘 Cooking, 📘 Reading, 🎙️ Singing, 📝 Writing 📜 Researching
 
+<div>
 <a class="twitter-follow-button"
   href="https://twitter.com/DevKhris"
   data-show-count="true">
@@ -16,6 +17,7 @@
 <a title="my website"
   href="https://devkhris.com/"
   data-show-count="true">
-  View my Portfolio
+  Check my Portfolio
 </a>
 
+</div>
