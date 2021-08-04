@@ -1,7 +1,7 @@
 ### Hi I'm Chris Hernandez a passionate :tada: Software Engineer & Full-Stack Developer :tada:
 
 * 💻 Languages: PHP, Javascript, Ruby, Python, Go!
-* 📐 Frameworks: Symfony, Laravel, Spiral, Rails
+* 📐 Frameworks: Laravel, Symfony, Spiral, Rails
 * 🧰  Stacks: Rails, LAMP, WAMP, MERN, MEVN, MEVNG
 * 💎 My Projects: BlockCMS, RubyNight, Psyonia, Wryte
 * 💙 Love: 🍘 Cooking, 📘 Reading, 🎙️ Singing, 📝 Writing 📜 Researching
