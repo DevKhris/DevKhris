@@ -6,18 +6,8 @@
 * 💎 My Projects: BlockCMS, RubyNight, Psyonia, Wryte
 * 💙 Love: 🍘 Cooking, 📘 Reading, 🎙️ Singing, 📝 Writing 📜 Researching
 
-<div>
-<a class="twitter-follow-button"
-  href="https://twitter.com/DevKhris"
-  data-show-count="true">
-  Follow @DevKhris
-</a>
+## 🔗 Links
 
-
-<a title="my website"
-  href="https://devkhris.com/"
-  data-show-count="true">
-  Check my Portfolio
-</a>
-
-</div>
+[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/devkhris)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devkhris)
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://devkhris.com/)
