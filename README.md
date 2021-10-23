@@ -1,11 +1,12 @@
 ## Welcome to DevKhris
-### Hi I'm Chris Hernandez a passionate :tada: Software Engineer & Full-Stack Developer :tada:
+### Hi I'm Chris Hernandez a passionate :tada: Software Engineer & Full-Stack Developer :tada: i'm always coding and always learning
 
-* 💻 Languages: PHP, Javascript, Ruby, Python, Go!
-* 📐 Frameworks: Laravel, Symfony, Spiral, Rails, ExpressJS
-* 🧰  Stacks: Rails, LAMP, WAMP, MERN, MEVN, MEVNG
+* 💻 Languages: PHP, Javascript, Python, Ruby, Go
+* 📐 Frameworks: Laravel, Symfony, Rails, ExpressJS, React, Vue, Livewire
+* 🧰  Stacks: Rails, LAMP, LEMP, MERN, MEVN, MEVNG
 * 💎 My Projects: BlockCMS, RubyNight, Psyonia, [![Wryte](https://img.shields.io/badge/Wryte-Register-blue)](https://w.osirishitech.com)
 * 💙 Love: 🍘 Cooking, 📘 Reading, 🎙️ Singing, 📝 Writing 📜 Researching
+* 📝 Learning: Golang, Python & Django, React & React Native
 
 ## 🔗 Links
 
