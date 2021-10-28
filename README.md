@@ -3,7 +3,7 @@
 
 * 💻 Languages: PHP, Javascript, Python, Ruby, Go
 * 📐 Frameworks: Laravel, Symfony, Rails, ExpressJS, React, Vue, Livewire
-* 🧰  Stacks: Rails, LAMP, LEMP, MERN, MEVN, MEVNG
+* 🧰  Stacks: TALL, LAMP, LEMP, MERN, MEVN, MEVNG
 * 💎 My Projects: BlockCMS, RubyNight, Psyonia, [![Wryte](https://img.shields.io/badge/Wryte-Register-blue)](https://w.osirishitech.com)
 * 💙 Love: 🍘 Cooking, 📘 Reading, 🎙️ Singing, 📝 Writing 📜 Researching
 * 📝 Learning: Golang, Python & Django, React & React Native
