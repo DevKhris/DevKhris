@@ -1,6 +1,8 @@
 ## Welcome to my profile!
-### Hi I'm Khris also know as 'DevKhris' a passionate :tada: Software Engineer & Full-Stack Developer :tada: i'm always coding and always learning
+### Hi I'm Khris also know as 'DevKhris' a passionate :tada: Software Engineer & Full-Stack Developer :tada: 
+i'm always coding and always learning
 
+## About me
 * 💻 Languages: PHP, Javascript, Python, Go
 * 📐 Frameworks: Laravel, Symfony, ExpressJS, React, Vue
 * 🧰  Stacks: TALL, LAMP, LEMP, MERN, MEVN, MEVNG
