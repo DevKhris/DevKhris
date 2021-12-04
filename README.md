@@ -1,5 +1,5 @@
-## Welcome to DevKhris
-### Hi I'm Chris Hernandez a passionate :tada: Software Engineer & Full-Stack Developer :tada: i'm always coding and always learning
+## Welcome to my profile!
+### Hi I'm Khris also know as 'DevKhris' a passionate :tada: Software Engineer & Full-Stack Developer :tada: i'm always coding and always learning
 
 * 💻 Languages: PHP, Javascript, Python, Go
 * 📐 Frameworks: Laravel, Symfony, ExpressJS, React, Vue
