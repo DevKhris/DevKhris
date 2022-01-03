@@ -1,14 +1,18 @@
+
 ## Welcome to my profile!
 ### Hi I'm Khris also know as 'DevKhris' a passionate :tada: Software Engineer & Full-Stack Developer :tada: 
 i'm always coding and always learning
 
 ## About me
-* 💻 Languages: PHP, Javascript, Python, Go
-* 📐 Frameworks: Laravel, Symfony, ExpressJS, React, Vue
 * 🧰  Stacks: TALL, LAMP, LEMP, MERN, MEVN, MEVNG
 * 💎 My Projects: BlockCMS, Fragment, Psyonia, [![Wryte](https://img.shields.io/badge/Wryte-Register-blue)](https://w.osirishitech.com)
-* 💙 Love: 🍘 Cooking, 📘 Reading, 🎙️ Singing, 📝 Writing 📜 Researching
-* 📝 Learning: Go, Python & Django, React & React Native
+* 💙 Love: 🍘 Cooking, 📘 Reading, 🎙️ Singing, 📝 Writing
+
+## Languages & Tools
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width=64 height=64 /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width=64 height=64 /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width=64 height=64 /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" width=64 height=64 /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" width=64 height=64 /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width=64 height=64 /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width=64 height=64 /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width=64 height=64 />
+
+## Currently Learning
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width=64 height=64 /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" width=64 height=64  /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" width=64 height=64 />
 
 ## 🔗 Links
 
