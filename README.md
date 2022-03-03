@@ -5,7 +5,7 @@ i'm always coding and always learning
 
 
 - 🧰  Stacks: TALL, LAMP, LEMP, MERN, MEVN, MEVNG
-- 💎 My Projects: BlockCMS, Fragment, Psyonia, [![Wryte](https://img.shields.io/badge/Wryte-Register-blue)](https://w.osirishitech.com)
+- 💎 My Projects: BlockCMS, Fragment, [![Wryte](https://img.shields.io/badge/Wryte-Register-blue)](https://w.osirishitech.com)
 - 💙 Love: 🍘 Cooking, 📘 Reading, 🎙️ Singing, 📝 Writing
 
 ## Languages & Tools
