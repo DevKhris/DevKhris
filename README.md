@@ -13,6 +13,7 @@ i'm always coding and always learning
 
 ## Currently Learning
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width=64 height=64 /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" width=64 height=64  /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" width=64 height=64 /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width=64 height=64/>
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjst-original.svg" width=64 height=64/>
 
 ## 🔗 Links
 
