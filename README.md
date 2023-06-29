@@ -5,7 +5,6 @@ i'm always coding and always learning
 
 
 - 🧰  Stacks: TALL, LAMP, LEMP, MERN, MERNG MEVN, MEVNG
-- 💎 My Projects: [![BlockCMS](https://img.shields.io/badge/BlockCMS-View-green)](https://github.com/devkhris/blockcms), Fragment, [![Wryte](https://img.shields.io/badge/Wryte-Register-blue)](https://wryte.tech)
 - 💙 Love: 🍘 Cooking, 📘 Reading, 🎙️ Singing, 📝 Writing
 
 ## Languages & Tools
