@@ -1,6 +1,6 @@
 
 ## a little about me
-### Hi I'm Khris also know as 'DevKhris' a self-taught passionate :tada: Software Engineer & Full-Stack Developer :tada: 
+### Hi I'm Khris also know as 'DevKhris' a advocated :tada: Software Engineer & Full-Stack Developer :tada: 
 i'm constantly coding, developing and learning
 
 - 🧰 Stacks: TALL, LAMP, LEMP, MERN, MERNG MEVN, MEVNG
