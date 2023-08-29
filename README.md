@@ -3,8 +3,8 @@
 ### Hi I'm Khris also know as 'DevKhris' a advocated :tada: Software Engineer & Full-Stack Developer :tada: 
 i'm constantly coding, developing and learning
 
-- 🧰 Stacks: TALL, LAMP, LEMP, MERN, MERNG MEVN, MEVNG
-- 💙 Love: Coding, 📘 Reading, 📝 Writing, 🍘 Cooking, 🎙️ Singing
+- 🧰 Tech Stacks: TALL, LAMP, LEMP, PERNG, MERN, MERNG MEVN, MEVNG
+- 💙 I Love: Coding, 📘 Reading, 📝 Writing, 🍘 Cooking, 🎙️ Singing
 
 ## My technical skills
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width=64 height=64 /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width=64 height=64 /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width=64 height=64 /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" width=64 height=64 /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" width=64 height=64 /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width=64 height=64 /> 
