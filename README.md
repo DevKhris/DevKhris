@@ -14,7 +14,7 @@ i'm constantly coding, developing and learning
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width=64 height=64/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-plain.svg" width=64 height=64/> 
 ## I'm currently Learning
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg" width=64 height=64/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg" width=64 height=64/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" width=64 height=64/>
 
 ## 🔗  Links
 
